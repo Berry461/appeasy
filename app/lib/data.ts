@@ -9,6 +9,8 @@ type Job = {
     status: 'Applied' | 'Interviewing' | 'Offer' | 'Rejected';
 };
 
+export type { Job };
+
 const DB_PATH = path.join(process.cwd(), 'jobs.json');
 let jobs: Job[] = [];
 

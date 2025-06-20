@@ -1,16 +1,9 @@
 [
   {
-    "title": "Senior Software Engineer",
-    "company": "stripe",
-    "link": "https://www.stripe.com",
-    "status": "Interviewing",
-    "id": "job-1750444721635"
-  },
-  {
-    "title": "10X Programmer",
-    "company": "Tesla",
-    "link": "https://www.tesla.com",
-    "status": "Offer",
-    "id": "1750445700451"
+    "title": "DevOps",
+    "company": "Google",
+    "link": "https://google.com",
+    "status": "Applied",
+    "id": "1750447349534"
   }
 ]
